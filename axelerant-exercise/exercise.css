@@ -75,6 +75,7 @@ img {
   background-color: #f7f7f7;
   position: relative;
   padding-bottom: 50px;
+  margin: 0 -16px;
 }
 .testimonial-section {
   margin: 15px 20px;
@@ -153,12 +154,17 @@ textarea {
 }
 .footer {
   background: #000000ba;
-  padding: 20px;
-  color: #eee9;
+    padding: 20px;
+    color: #eee9;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 -16px;
+
+}
 }
 .social-icons {
   padding-top: 50px;
-  display: flex;
+  
 }
 
 .social-icons ul {
