@@ -1,0 +1,96 @@
+body {
+  margin: 50px 50px 0 50px;
+  font-family: "Inconsolata", monospace;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 130px;
+}
+
+.header {
+  color: grey;
+  font-size: 42px;
+  margin: 50px;
+  font-family: "Inconsolata", monospace;
+}
+.main-container {
+  max-width: 1275px;
+  margin: 0 auto;
+}
+.image {
+  border: 6px solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.introduction {
+  text-align: center;
+  font-size: 24px;
+  color: #444;
+  font-family: "Inconsolata", monospace;
+  margin: 0 auto;
+  padding: 0 0 40px;
+  max-width: 700px;
+}
+
+.description {
+  font-family: "Inconsolata", monospace;
+  font-size: 22px;
+  text-align: center;
+  color: #444;
+  padding: 30px 0;
+  line-height: 1.5;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.social-icons {
+  text-align: center;
+  background: #ffe373;
+  height: 70px;
+  margin-bottom: 0;
+}
+.social-icons li {
+  display: inline-block;
+  list-style-type: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
+.social-icons li a {
+  border-bottom: none;
+}
+.social-icons li img {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+}
+.social-container {
+  margin: 0 -50px 0 -50px;
+  background: #464646;
+}
+.footer-sub {
+  text-align: center;
+  color: #444;
+  padding-top: 10px;
+}
+.footer-sub p {
+  color: #fff;
+}
+.footer-sub a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Inconsolata", monospace;
+}
+.footer-sub h2 {
+  margin: 0;
+}
+.name {
+  font-size: 25px;
+  color: #313131;
+  letter-spacing: 7px;
+}
